@@ -2,8 +2,10 @@
 - 🌱 I’m currently learning C# and C++
 - 📫 How to reach me hoangnguyen2car@gmail.com
 - Languages and Tools:
-![](https://cafedev.vn/wp-content/uploads/2020/05/cafedevn_css.jpg) (&lt;img /&gt;)
-
+<!-------
+![](https://cafedev.vn/wp-content/uploads/2020/05/cafedevn_css.jpg) (&lt;img /&gt;) 
+------->
+[Github](https://cafedev.vn/wp-content/uploads/2020/05/cafedevn_css.jpg)
 
 
 
