@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Nguyễn Huy Hoàng
-- 🌱 I’m currently learning C# and C++
+- 🌱 I am a .Net C# programmer
 - 📫 How to reach me hoangnguyen2car@gmail.com
 <!-------
 ![](https://cafedev.vn/wp-content/uploads/2020/05/cafedevn_css.jpg) (&lt;img /&gt;) 
